@@ -1,4 +1,4 @@
-# Palindrome-checker-function
+# PALINDROME CHECKER FUNCTION
 This is a function used to determine whether the string is a palindrome or not
 
 # Features
